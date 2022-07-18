@@ -30,4 +30,3 @@
 26. Stripe Submenus
 27. Pagination
 28. Wikipedia
-29. Comfy Sloth
